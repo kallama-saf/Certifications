@@ -1,2 +1,7 @@
 # Certifications
-This repo contains the course certificates that I earned when taking online courses on Coursera and other platforms (to be edited)
+This repo contains the course certificates from different learning platforms.
+
+1. Google IT Support Professional Certificate
+2. Google Cybersecurity Professional Certificate - in progress
+3. ISC2 Certified in Cybersecurity (CC) - in progress
+ 
